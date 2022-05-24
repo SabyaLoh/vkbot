@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mineral-pride-350719",
+  "private_key_id": "cba0d433d2d7f0f604f3ea3e3311ad71ed80caa6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCr9RcEJdmtFlW4\nL0MOXjLE7zxazHIW4Y9pFITe3vfi3SX/GZfxFbkq12w+6i68d2sC6mH8OQk/dY6i\nJnQb4+od7gxMS+4qm+SQ3/wA767nnaPbNr2Hks/gfPmQNVTvdBdAKdZR1QDjB+To\nkQepv4EENzXXsuzkkPonWt66ugXQ9zYV21FfsgGWAH53gUXA+WPJ+bW7mFVn6VRN\nB8Bb/suli0hMxTRXvQpOQ522IicRFlxkMCW6Wl5vNvLh7uTKpgfXHTTPYT6wYwOo\nDeoE6gH18JSvH16ZuwwWdvTjj1RcP1ty8Q0zc9GcO6HxU7zYX0p950Fnk4ojaKaj\nhkKaSZOBAgMBAAECggEAC24V6tJqQvFYXs8Tbb3QsZr2X9G1prQ1EGbLAzZ+cy/A\nghGtMhr/zSt3GEKAO0pTzGSQgU+4P+XcRoZ4Us9GRVmIqzyj1uS4X3HoAhbsgRxP\nIzfjBsM5OqKMAywsWmNU1VDCnHtkXPLuIhBb2kputL1HwK/1w6aoXhvR8McDMnXU\nQm9BXfM7B+cYiSFRTTJvu77qU8O5J1pbCPlh3/kD/d5RY/pQw+gIEYPEotMI1Q2E\n/7zCoafduwXX/z+zadziR8JW0fJg8XSXXBrt8d2uU3WDLPMjenuiEbxJQRfKpr/b\nQl2YcZ3QvQODVx2OAz7Z0oOtpyTdpbDIdlcJ/cEtzQKBgQDio6c+sNyIG1gBgvkK\nbD0tVHpbYw773gVZebiqWhqjkvEgvX3iY8rDDCqgjUqgESRmyYQcQ+dohBotUoAa\nIgHHDmElW4p9iaou/fEM6kw/neeV4iGfltr34Vx75yQMs5qhtI9rs98tmoCrc5kn\nPHHo7d7akOK/RJpFuM24RvL0ZQKBgQDCO/Jazmo6OWfVk3HFvTUZSRsI6i94xLNB\nKe9hJf6pgww0Uu2oeRfRE6cP13wfQfpFkd8J+1lNGsCvGy6FdTfsiNHFETAwNt2w\nHXfneTjrfJUdgh6Oelrh5YrkkIWQO4dqWi3PcOc69Sd/cCU1QlEh9MmOYk2bhCYX\nvuzhqgXq7QKBgQCdM8rD70Vomx7WHZTEqANfN+OPFAzGo1+uioGOl+U2ZKwge4+f\nwnxYAk5nAtoqYPmQ2mJqgKc4lbjaiwkUF1aITe8QTIipPx3ubnIO9U1iKxMBodKU\nsby8h3Lw9ojIzqOJWobIvAEnzq1FP2+SCZkxah1UGX9OEDW5+s+m7H+FCQKBgQCR\ncHPT3PYb7Po8KXCqwTeuXFha/4hWZOtYov70/o9G/LK5x1LfsPTNgGq66P6vJScy\nyrx46/V9T8fyFmdqVVBv1C9G4cz0fVDYW+h5sgKWCi5Z7yHUS/gbaFbtOO5aBskq\nMKZWy1LJieJugVnLHIJF69a0wBUemwAvDa6wdzCBLQKBgEYG4X3aYUn0gzBUlyHy\nPs5Oqn8Wn9z8UaYnBOFDmfo9WZeoVs5YWbfXwUdqFH1Xdj/Amar5NOpvcYHIhT8m\noLkWW/iYYzI8fI82d52T96BgBAhUesNSKQ5qthiFfOTLsYflEW2NFOWteKHtff5W\n5rr43hDi5UCCXjHbx2tJX57f\n-----END PRIVATE KEY-----\n",
+  "client_email": "acc-619@mineral-pride-350719.iam.gserviceaccount.com",
+  "client_id": "112240075439147112379",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/acc-619%40mineral-pride-350719.iam.gserviceaccount.com"
+}
